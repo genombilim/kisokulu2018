@@ -1,0 +1,14 @@
+Batman			Bruce Wayne		Hero		DC
+Catwoman		Selina Kyle		Villain		DC
+Doctor Doom		Victor von Doom		Villain		Marvel
+Doctor Octopus		Otto Octavius		Villain		Marvel
+Invisible Woman		Susan Storm Richards	Hero		Marvel
+Iron Man		Tony Stark		Hero		Marvel
+Poison Ivy		Pamela Isely		Villain		DC
+Rogue			Anna Marie		Hero		Marvel
+Spider-Man		Peter Parker		Hero		Marvel
+Supergirl		Linda Danvers		Hero		DC
+Superman		Clark Kent		Hero		DC
+The Riddler		Edward Nigma		Villain		DC	
+Two-Face		Harvey Dent		Villain		DC
+Wonder Woman		Diana Prince		Hero		DC
